@@ -15,3 +15,11 @@ int main(){
 
     return 0;
 }
+
+// This file is there to calculte airline ticket prices
+// Things to read
+// Git: 
+// git add
+// git commit 
+// git push
+// git log 
